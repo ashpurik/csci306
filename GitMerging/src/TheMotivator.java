@@ -14,6 +14,7 @@ public class TheMotivator {
 			System.out.println("Study more! ");
 		else
 			System.out.println("Well, what can I say? Get tutored!!");
+		System.out.println("Regardless, you're awesome!");
 	}
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
