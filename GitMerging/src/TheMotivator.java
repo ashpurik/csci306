@@ -11,7 +11,7 @@ public class TheMotivator {
 		else if (score > 70)
 			System.out.println("Could be better ");
 		else if (score > 60)
-			System.out.println("Study more! ");
+			System.out.println("Study more!! ");
 		else
 			System.out.println("Well, what can I say? Get tutored!!");
 	}
