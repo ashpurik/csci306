@@ -1,0 +1,34 @@
+*   fixed conflict
+|\  
+| * on new branch, added a line
+* | on main branch, changed line
+|/  
+*   fixed conflict possibly
+|\  
+| * made change in branch
+* |   fixing conflicts
+|\ \  
+| |/  
+| * change on a branch
+* | change on main branch
+|/  
+* test change
+* gitmerging assignment
+* added some cheese
+*   Merge branch 'addmouse'
+|\  
+| * changed mouse text
+| * added mouse
+* | added cat ears
+|/  
+* added whiskers
+* removing
+* practice
+* remove 2
+* remove
+* test commit
+*   Merge csci306
+|\  
+| * Initial commit
+* DrawPlay
+* test
